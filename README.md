@@ -36,7 +36,7 @@ El dataset se encuentra limpio y listo para análisis. Los valores nulos se conc
 
 ## 🎬 2. Tipo de Contenido  
 **Código clave:**
-```python
+
 df['type'].value_counts()
 Resultados:
 
