@@ -134,4 +134,4 @@ Visualizaciones: Gráficos de barras y distribuciones
 
 📅 Proyecto completado: Noviembre 2025
 👤 Autor: José Alberto Hurtado Echeverría
-🔗 LinkedIn: linkedin.com/in/josealbertohurtadoecheverria
+🔗 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-alberto-hurtado-echeverr%C3%ADa-77910a319/
